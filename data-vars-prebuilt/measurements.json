@@ -1,0 +1,114 @@
+[
+  {
+    "arm": "before",
+    "mode": "light",
+    "order": "core-first",
+    "values": {
+      "raw-blue": "rgba(0, 0, 0, 0)",
+      "compiled-blue": "rgba(0, 0, 0, 0)",
+      "raw-orange": "rgba(0, 0, 0, 0)",
+      "compiled-neutral": "rgba(0, 0, 0, 0)",
+      "override-blue": "rgb(1, 2, 3)",
+      "override-orange": "rgba(0, 0, 0, 0)"
+    },
+    "screenshot": "before-light-core-first.png"
+  },
+  {
+    "arm": "before",
+    "mode": "light",
+    "order": "theme-first",
+    "values": {
+      "raw-blue": "rgba(0, 0, 0, 0)",
+      "compiled-blue": "rgba(0, 0, 0, 0)",
+      "raw-orange": "rgba(0, 0, 0, 0)",
+      "compiled-neutral": "rgba(0, 0, 0, 0)",
+      "override-blue": "rgb(1, 2, 3)",
+      "override-orange": "rgba(0, 0, 0, 0)"
+    },
+    "screenshot": "before-light-theme-first.png"
+  },
+  {
+    "arm": "before",
+    "mode": "dark",
+    "order": "core-first",
+    "values": {
+      "raw-blue": "rgba(0, 0, 0, 0)",
+      "compiled-blue": "rgba(0, 0, 0, 0)",
+      "raw-orange": "rgba(0, 0, 0, 0)",
+      "compiled-neutral": "rgba(0, 0, 0, 0)",
+      "override-blue": "rgb(4, 5, 6)",
+      "override-orange": "rgba(0, 0, 0, 0)"
+    },
+    "screenshot": "before-dark-core-first.png"
+  },
+  {
+    "arm": "before",
+    "mode": "dark",
+    "order": "theme-first",
+    "values": {
+      "raw-blue": "rgba(0, 0, 0, 0)",
+      "compiled-blue": "rgba(0, 0, 0, 0)",
+      "raw-orange": "rgba(0, 0, 0, 0)",
+      "compiled-neutral": "rgba(0, 0, 0, 0)",
+      "override-blue": "rgb(4, 5, 6)",
+      "override-orange": "rgba(0, 0, 0, 0)"
+    },
+    "screenshot": "before-dark-theme-first.png"
+  },
+  {
+    "arm": "after",
+    "mode": "light",
+    "order": "core-first",
+    "values": {
+      "raw-blue": "rgb(1, 113, 227)",
+      "compiled-blue": "rgb(1, 113, 227)",
+      "raw-orange": "rgb(235, 110, 0)",
+      "compiled-neutral": "rgb(132, 148, 163)",
+      "override-blue": "rgb(1, 2, 3)",
+      "override-orange": "rgb(235, 110, 0)"
+    },
+    "screenshot": "after-light-core-first.png"
+  },
+  {
+    "arm": "after",
+    "mode": "light",
+    "order": "theme-first",
+    "values": {
+      "raw-blue": "rgb(1, 113, 227)",
+      "compiled-blue": "rgb(1, 113, 227)",
+      "raw-orange": "rgb(235, 110, 0)",
+      "compiled-neutral": "rgb(132, 148, 163)",
+      "override-blue": "rgb(1, 2, 3)",
+      "override-orange": "rgb(235, 110, 0)"
+    },
+    "screenshot": "after-light-theme-first.png"
+  },
+  {
+    "arm": "after",
+    "mode": "dark",
+    "order": "core-first",
+    "values": {
+      "raw-blue": "rgb(1, 113, 227)",
+      "compiled-blue": "rgb(1, 113, 227)",
+      "raw-orange": "rgb(235, 110, 0)",
+      "compiled-neutral": "rgb(140, 147, 155)",
+      "override-blue": "rgb(4, 5, 6)",
+      "override-orange": "rgb(235, 110, 0)"
+    },
+    "screenshot": "after-dark-core-first.png"
+  },
+  {
+    "arm": "after",
+    "mode": "dark",
+    "order": "theme-first",
+    "values": {
+      "raw-blue": "rgb(1, 113, 227)",
+      "compiled-blue": "rgb(1, 113, 227)",
+      "raw-orange": "rgb(235, 110, 0)",
+      "compiled-neutral": "rgb(140, 147, 155)",
+      "override-blue": "rgb(4, 5, 6)",
+      "override-orange": "rgb(235, 110, 0)"
+    },
+    "screenshot": "after-dark-theme-first.png"
+  }
+]
